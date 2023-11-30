@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:FacultyWPF"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="DataListPage">
+      Title="DataListPage" Background="Red">
 
     <Grid>
         <DataGrid x:Name="dg" Margin="0,95,0,0">
